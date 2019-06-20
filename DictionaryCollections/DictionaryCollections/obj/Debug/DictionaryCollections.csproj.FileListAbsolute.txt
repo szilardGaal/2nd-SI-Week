@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csprojAssemblyReference.cache

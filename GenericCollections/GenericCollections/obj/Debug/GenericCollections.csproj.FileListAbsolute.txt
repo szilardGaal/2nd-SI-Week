@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

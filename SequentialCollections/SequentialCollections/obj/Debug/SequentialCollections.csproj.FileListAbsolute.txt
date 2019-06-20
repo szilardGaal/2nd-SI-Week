@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojAssemblyReference.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

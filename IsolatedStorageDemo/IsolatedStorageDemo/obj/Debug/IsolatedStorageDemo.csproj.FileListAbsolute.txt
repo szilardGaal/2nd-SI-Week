@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\obj\Debug\LookupCollections.csprojAssemblyReference.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\obj\Debug\LookupCollections.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\obj\Debug\LookupCollections.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\LookupCollections\LookupCollections\obj\Debug\LookupCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojAssemblyReference.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csproj.CoreCompileInputs.cache
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+C:\Users\gaals\Desktop\C#\.NET modul\2nd SI week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
